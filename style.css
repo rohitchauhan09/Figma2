@@ -786,7 +786,6 @@ footer {
         flex-wrap: wrap;
         justify-content: space-between;
         padding: 16px 4px 16px 32px;
-
     }
 
     .logo h2 {
@@ -850,8 +849,6 @@ footer {
         padding: 32px 32px;
         gap: 12px;
         overflow: hidden;
-
-
     }
 
     .top-section h2 {
